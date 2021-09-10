@@ -8,8 +8,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Find me making some moves 😄
 
-<img src="https://github.com/brandy-kay/brandy-kay/blob/master/Digital__Design_110-512.png" width="100"/>
-
 <center>
   <table>
     <tr>
@@ -18,5 +16,3 @@
     </tr>   
   </table>
 </center>
-
-
