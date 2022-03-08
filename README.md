@@ -1,5 +1,8 @@
 ### Hello Peeps 👋
 
+
+![github](https://img.shields.io/github/followers/brandy-kay?style=plastic)
+
 - 🔭 I’m currently working on Android development
 - 🌱 I’m currently learning Android development and Data science with python
 - 👯 I’m looking to collaborate on Android and Data science
