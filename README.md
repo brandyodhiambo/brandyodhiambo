@@ -1,4 +1,4 @@
-### Hello Peeps 👋
+### Hello World 👋
 
 
 ![github](https://img.shields.io/github/followers/brandy-kay?style=plastic)
