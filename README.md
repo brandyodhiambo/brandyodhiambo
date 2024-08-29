@@ -1,10 +1,10 @@
  <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Brandy</h1>
 
-<h3 align="center">A Mobile Developer.</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - I’m currently working on Android projects
-- A contributor to Kotlin, Java and Flutter projects
-- Currently learning Spring boot
+- A contributor to Kotlin, Java, and Flutter projects, Spring boot
+- Currently learning javascript and JS framework 
 
 
  My social handles 😊 
