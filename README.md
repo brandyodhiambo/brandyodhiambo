@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 💻 I’m currently working on Android projects using **Kotlin**, **Java**, and **Jetpack Compose**
+- 💻 I’m currently working on **Android** and **Kotlin Multiplatform** projects using **Kotlin**, **Java**, and **Jetpack Compose**.
 - 🤝 Contributor to Kotlin, Java, and Spring Boot projects
 - 📱 Learning **Swift** and **SwiftUI** to build iOS apps
 - 🌍 Ask me about **Android**, **Kotlin**, **Java**, **Spring Boot**, and **Kotlin Multiplatform (KMP)**
